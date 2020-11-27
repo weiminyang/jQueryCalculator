@@ -10,3 +10,5 @@ res = Math.pow(num1, num2);
   $(".number").on("click", function () {
        
       })
+      
+      
