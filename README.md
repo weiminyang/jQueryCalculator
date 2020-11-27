@@ -1,5 +1,7 @@
 # jQueryCalculator
-  practice about jQuery
+https://weiminyang.github.io/jQueryCalculator/
+
+this is a practice about jQuery
 
 //
 ## 1
